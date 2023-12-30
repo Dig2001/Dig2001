@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Dig2001/Dig2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
