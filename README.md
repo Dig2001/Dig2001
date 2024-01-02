@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 I love working with different technologies & platforms, and my current favorite ones are:
 
-- ❤️ SQL / PostgreSQL / MySQL /Workbench
-- ❤️ Python
-- ❤️ Excel
-- ❤️ Tableau
-- ❤️ Machine Learning
+-  SQL / PostgreSQL / MySQL /Workbench
+-  Python
+-  Excel
+-  Tableau
+-  Machine Learning
 
 ## Connect with Me
 
