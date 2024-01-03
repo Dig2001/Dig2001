@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! 👋 I'm Digamber Chandra
+# Hello! 👋 
 
 
 🧑‍💻 I'm Digamber Chandra, and I have  more than 1+ year of experience , Data  & Software Development areas.
@@ -28,6 +28,10 @@ I love working with different technologies & platforms, and my current favorite 
 -  Tableau
 -  Machine Learning
 
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Digamber03&color=orange)
+
 ## Connect with Me
 
 📬 Find me at:
@@ -41,6 +45,3 @@ I love working with different technologies & platforms, and my current favorite 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digamber03&layout=compact)](https://github.com/digamber03)
 
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Digamber03&color=orange)
