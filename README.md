@@ -28,9 +28,7 @@ I love working with different technologies & platforms, and my current favorite 
 -  Tableau
 -  Machine Learning
 
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Digamber03&color=orange)
+## Profile Views  ![Profile Views](https://komarev.com/ghpvc/?username=Digamber03&color=orange)
 
 ## Connect with Me
 
