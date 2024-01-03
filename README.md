@@ -23,7 +23,7 @@ I love working with different technologies & platforms, and my current favorite 
 -  Tableau
 -  Machine Learning
 
-## Profile Views  ![Profile Views](https://komarev.com/ghpvc/?username=Digamber03&color=orange)
+## Profile Views  ![Profile Views](https://komarev.com/ghpvc/?username=Digamber03&color=orange&style=flat-square&label=profile+view)
 ## Connect with Me
 
 📬 Find me at: [![LinkedIn Badge](https://camo.githubusercontent.com/f57a7536f5eff51ee70e26fde6cbb008fda9315455c8217951f50f4d57f8bd53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f70686f6e657468697269796164616e61)](https://www.linkedin.com/in/digamber-chandra/)
