@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 -->
 # Hello! 👋 
 
-
 🧑‍💻 I'm Digamber Chandra, and I have  more than 1+ year of experience , Data  & Software Development areas.
 
 ## Technologies & Platforms
-
 I love working with different technologies & platforms, and my current favorite ones are:
 
 -  SQL / PostgreSQL / MySQL /Workbench
@@ -37,5 +35,6 @@ I love working with different technologies & platforms, and my current favorite 
 [![GitHub Badge](https://camo.githubusercontent.com/f19f44a97773315a66170d3c5493bf2f6373d825469b0d7e0386ac4e42ccb2f4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7074796164616e612f)](https://github.com/Digamber03)
 [![Kaggle Badge](https://camo.githubusercontent.com/8afb8829371b4c3e49c31da6a4d0c4bee7e2b02b9aba42eae0c8ba151b61b6fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6167676c652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6b6167676c652e636f6d2f70686f6e657468697269796164616e61)](https://www.kaggle.com/digamber03)
 
-## Top Languages      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digamber03&layout=compact)](https://github.com/digamber03)
+## Top Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digamber03&layout=compact)](https://github.com/digamber03)
 
