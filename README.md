@@ -36,5 +36,5 @@ I love working with different technologies & platforms, and my current favorite 
 [![Kaggle Badge](https://camo.githubusercontent.com/8afb8829371b4c3e49c31da6a4d0c4bee7e2b02b9aba42eae0c8ba151b61b6fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6167676c652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6b6167676c652e636f6d2f70686f6e657468697269796164616e61)](https://www.kaggle.com/digamber03)
 
 ## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digamber03&layout=compact)](https://github.com/digamber03)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digamber03&layout=compact)](https://github.com/digamber03)
 
