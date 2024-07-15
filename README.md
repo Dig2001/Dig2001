@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! 👋 
-🧑‍💻 I'm Digamber Chandra, and I have  more than 1+ year of experience , Data  & Software Development areas.
+# Hello! Welcome to my profile👋 
+🧑‍💻 I'm Digamber Chandra, and I have  more than 1.6 + year of experience , Data  & Software Development areas.
 ## Technologies & Platforms
 I love working with different technologies & platforms, and my current favorite ones are:
 -  SQL / PostgreSQL / MySQL /Workbench
 -  Python
 -  Excel
+-  Power BI
 -  Tableau
 -  Machine Learning
 
